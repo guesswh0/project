@@ -1,0 +1,8 @@
+openpyxl
+pandas
+sqlalchemy
+pydantic[dotenv]
+uvicorn[standard]
+python-multipart
+fastapi
+
